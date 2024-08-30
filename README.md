@@ -184,8 +184,8 @@ For detailed instructions, refer to Google's documentation on [OAuth 2.0](https:
 
 <h2>Author</h2>
 <blockquote>
-  Mahmudul alam<br>
-  Email: expelmahmud@gmail.com
+  Mounika Kamma<br>
+  Email: mounikakamma83@gmail.com
 </blockquote>
 
 <div align="center">
